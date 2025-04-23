@@ -1,5 +1,9 @@
 @charset "utf-8";
-#introduction{
-    color: blue;
+.introduction{
+    color:blue;
+    color:orange;
     font-size: 14px;
+}
+.introduction{
+    color:red;
 }
